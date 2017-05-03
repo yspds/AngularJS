@@ -5,8 +5,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-       //System.out.println("Hello World!");
-
             System.out.println("Liste de String");
             System.out.println("------------------------------");
             List<String> listeString= new ArrayList<String>();
